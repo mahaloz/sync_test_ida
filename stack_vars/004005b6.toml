@@ -1,0 +1,7 @@
+[-10]
+func_addr = 4195766
+name = "conn_canary"
+stack_offset = -16
+stack_offset_type = 1
+size = 8
+type = "unsigned long long"
