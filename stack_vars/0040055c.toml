@@ -1,3 +1,11 @@
+[-28]
+func_addr = 4195676
+name = "fish_array"
+stack_offset = -40
+stack_offset_type = 1
+size = 24
+type = "unsigned char"
+
 [-10]
 func_addr = 4195676
 name = "fish_canary"
