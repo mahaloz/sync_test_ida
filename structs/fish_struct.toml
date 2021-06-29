@@ -1,3 +1,9 @@
 [struct_metadata]
 name = "fish_struct"
-size = 0
+size = 8
+
+[0]
+member_name = "field_0"
+offset = 0
+type = ""
+size = 8
