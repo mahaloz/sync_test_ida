@@ -3,7 +3,7 @@ name = "fish_struct"
 size = 8
 
 [0]
-member_name = "field_0"
+member_name = "fish_0"
 offset = 0
 type = ""
 size = 8
